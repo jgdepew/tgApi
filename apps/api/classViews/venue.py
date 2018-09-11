@@ -1,5 +1,5 @@
 # models
-from apps.api.models import Entertainer, Venue, Event
+from apps.api.models import Venue
 # serializer
 from apps.api.serializers.venue import VenueSerializer, VenueSerializerV1
 # rest framework
